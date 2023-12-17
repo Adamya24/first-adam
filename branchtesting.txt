@@ -1,4 +1,0 @@
-COMMANDS FOR BRANCH TESTING ==>
-
-1)git branch <branch name>
-2)git checkout <branch>
