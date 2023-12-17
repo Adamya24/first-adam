@@ -1,1 +1,1 @@
-this is an experimental practice repository.
+this is an experimental practice repository that i use to practice git commands.
